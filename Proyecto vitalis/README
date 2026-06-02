@@ -1,0 +1,16 @@
+En esta carpeta se va a encontrar con:
+
+Análisis de Riesgos.pdf
+Este documento se centra específicamente en la identificación, evaluación y gestión de las posibles amenazas y vulnerabilidades asociadas al desarrollo e implementación del sistema Vitalis.
+
+Relevamiento y Análisis de Riesgos en Vitalis.pdf
+Un informe complementario (o detallado) enfocado en la fase de recolección de datos previa ("relevamiento"), donde se estudian las condiciones iniciales de la organización o sistema para determinar los riesgos de seguridad y operativos desde su origen.
+
+Seguridad PARCIAL 1 VITALIS.pdf
+Un documento académico o de evaluación formal que aborda los conceptos teóricos y prácticos de seguridad informática aplicados al contexto del proyecto Vitalis, probablemente estructurado como un examen o entrega parcial.
+
+Trabajo Desarrollo VITALIS.pdf
+El núcleo técnico o metodológico de la carpeta. Este archivo detalla el proceso de diseño, la arquitectura de software, las tecnologías utilizadas y las fases de construcción de la plataforma Vitalis.
+
+Trabajo_Etica_v2.docx
+Una entrega en formato Word que analiza las implicaciones morales, la confidencialidad de datos de los usuarios, el cumplimiento normativo y el impacto ético que conlleva desplegar un sistema como Vitalis.
